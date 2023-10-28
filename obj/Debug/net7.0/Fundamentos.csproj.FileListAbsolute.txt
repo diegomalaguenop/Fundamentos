@@ -1,0 +1,14 @@
+C:\Aplicaciones\Coding dojo\Clases\C#\Fundamentos\bin\Debug\net7.0\Fundamentos.exe
+C:\Aplicaciones\Coding dojo\Clases\C#\Fundamentos\bin\Debug\net7.0\Fundamentos.deps.json
+C:\Aplicaciones\Coding dojo\Clases\C#\Fundamentos\bin\Debug\net7.0\Fundamentos.runtimeconfig.json
+C:\Aplicaciones\Coding dojo\Clases\C#\Fundamentos\bin\Debug\net7.0\Fundamentos.dll
+C:\Aplicaciones\Coding dojo\Clases\C#\Fundamentos\bin\Debug\net7.0\Fundamentos.pdb
+C:\Aplicaciones\Coding dojo\Clases\C#\Fundamentos\obj\Debug\net7.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplicaciones\Coding dojo\Clases\C#\Fundamentos\obj\Debug\net7.0\Fundamentos.AssemblyInfoInputs.cache
+C:\Aplicaciones\Coding dojo\Clases\C#\Fundamentos\obj\Debug\net7.0\Fundamentos.AssemblyInfo.cs
+C:\Aplicaciones\Coding dojo\Clases\C#\Fundamentos\obj\Debug\net7.0\Fundamentos.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\Coding dojo\Clases\C#\Fundamentos\obj\Debug\net7.0\Fundamentos.dll
+C:\Aplicaciones\Coding dojo\Clases\C#\Fundamentos\obj\Debug\net7.0\refint\Fundamentos.dll
+C:\Aplicaciones\Coding dojo\Clases\C#\Fundamentos\obj\Debug\net7.0\Fundamentos.pdb
+C:\Aplicaciones\Coding dojo\Clases\C#\Fundamentos\obj\Debug\net7.0\Fundamentos.genruntimeconfig.cache
+C:\Aplicaciones\Coding dojo\Clases\C#\Fundamentos\obj\Debug\net7.0\ref\Fundamentos.dll
